@@ -7,7 +7,7 @@
 
 **界面设计与交互 · 细节有分寸，操作有回应。**
 
-[下载 v1.0.1](https://github.com/Mustundead/mu-poise-ui-design/releases/tag/v1.0.1) · [English](README.en.md) · [使用文档](docs/usage.md) · [完整技能](SKILL.md) · [MU LABS](https://mustundead.com/#work)
+[下载 v1.0.2](https://github.com/Mustundead/mu-poise-ui-design/releases/tag/v1.0.2) · [English](README.en.md) · [使用文档](docs/usage.md) · [完整技能](SKILL.md) · [MU LABS](https://mustundead.com/#work)
 
 由 [Mustundead](https://github.com/Mustundead) 编写的个人 Agent Skill，把 MU LABS 的产品判断整理成可反复使用的工作方法。支持以 `SKILL.md` 为入口的助手工作流；技能指令以中文编写，可以处理约定范围内的中英文产品内容。
 
@@ -39,7 +39,7 @@ Poise 是平衡与从容。它代表布局的分寸、操作的可控，以及�
 
 ## 开始使用
 
-1. 下载 [v1.0.1](https://github.com/Mustundead/mu-poise-ui-design/releases/tag/v1.0.1) 或克隆本仓库。
+1. 下载 [v1.0.2](https://github.com/Mustundead/mu-poise-ui-design/releases/tag/v1.0.2) 或克隆本仓库。
 2. 将包含 `SKILL.md`、`references/`、`agents/` 和 `assets/` 的 `mu-poise-ui-design` 文件夹放进助手已配置的技能目录。MU LABS 的本地 Codex 工作流使用 `~/.codex/skills/`；其他环境按其技能发现设置选择目录。
 3. 在新的会话中调用 `$mu-poise-ui-design`，并说明目标、材料和工作范围。
 
