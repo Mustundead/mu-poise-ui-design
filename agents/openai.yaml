@@ -1,5 +1,5 @@
 interface:
-  display_name: "MU Poise · UI 设计"
+  display_name: "MU LABS Poise · UI 设计"
   icon_small: "./assets/icon.png"
   icon_large: "./assets/icon.png"
   short_description: "Build considered layouts and responsive, accessible interactions"

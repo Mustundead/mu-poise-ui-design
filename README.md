@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg">
-  <img src="assets/cover-light.svg" alt="MU Poise · UI DESIGN — Considered details. Responsive by design." width="100%">
+  <img src="assets/cover-light.svg" alt="MU LABS Poise · UI DESIGN — Considered details. Responsive by design." width="100%">
 </picture>
 
-<img src="assets/icon.png" alt="MU Poise" width="112" height="112">
+<img src="assets/icon.png" alt="MU LABS Poise" width="112" height="112">
 
-# MU Poise · UI 设计
+# MU LABS Poise · UI 设计
 
 **界面设计与交互 · 细节有分寸，操作有回应。**
 
@@ -13,7 +13,7 @@
 
 由 [Mustundead](https://github.com/Mustundead) 编写的个人 Agent Skill，把 MU LABS 的产品判断整理成可反复使用的工作方法。支持以 `SKILL.md` 为入口的助手工作流；技能指令以中文编写，可以处理约定范围内的中英文产品内容。
 
-## 为什么叫 MU Poise
+## 为什么叫 MU LABS Poise
 
 Poise 是平衡与从容。它代表布局的分寸、操作的可控，以及动效在恰当时刻给出的回应。 MU 是 MU LABS 的共同署名，功能由副标题说明。
 
@@ -27,7 +27,7 @@ Poise 是平衡与从容。它代表布局的分寸、操作的可控，以及�
 
 ## 细节，要回到使用里判断
 
-| 看见的情况 | MU Poise 关注的判断 |
+| 看见的情况 | MU LABS Poise 关注的判断 |
 | --- | --- |
 | 图标与文字没对齐 | 是父级间距、字形基线，还是透明边缘 |
 | 动画中途重新拖动会跳 | 是否从当前显示位置接管，而非旧目标 |
@@ -80,4 +80,4 @@ Poise 是平衡与从容。它代表布局的分寸、操作的可控，以及�
 
 本仓库新写的技能、文档和示例以 [MIT](LICENSE) 开源，可使用、修改和再分发，需保留许可证声明。链接的外部资料仍遵循各自条款。产品和平台名称用于说明语境，不表示官方关联或背书。
 
-问题或改进建议请附具体场景、实际行为和期望结果；见[贡献说明](CONTRIBUTING.md)。与另一项 [MU Phrase](https://github.com/Mustundead/mu-phrase-ui-copy) 可共同使用，但共享的检查只做一次。
+问题或改进建议请附具体场景、实际行为和期望结果；见[贡献说明](CONTRIBUTING.md)。与另一项 [MU LABS Phrase](https://github.com/Mustundead/mu-phrase-ui-copy) 可共同使用，但共享的检查只做一次。

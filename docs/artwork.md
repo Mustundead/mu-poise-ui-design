@@ -2,7 +2,7 @@
 
 2026-09-22 · MU LABS · v1.0.2
 
-Created and revised with the built-in imagegen tool. MU Poise uses a dark graphite rounded square and overlapping interface panels in neutral silver and grey. There are no blue accents or folded corners. The PNG exterior is transparent; the website uses a WebP encoding. Skill instructions are unchanged.
+Created and revised with the built-in imagegen tool. MU LABS Poise uses a dark graphite rounded square and overlapping interface panels in neutral silver and grey. There are no blue accents or folded corners. The PNG exterior is transparent; the website uses a WebP encoding. Skill instructions are unchanged.
 
 ## Final edit prompt
 

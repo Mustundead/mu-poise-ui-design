@@ -3,7 +3,7 @@ name: mu-poise-ui-design
 description: 设计、实现和评审细致、可控的产品界面与交互。用于布局层级、排版、控件一致性、拖拽与弹层、可中断动效、材质和无障碍；遵循现有原生或 Web 平台，不以统一玻璃风格替代产品设计。
 ---
 
-# MU Poise · UI 设计
+# MU LABS Poise · UI 设计
 
 MU LABS / Mustundead
 

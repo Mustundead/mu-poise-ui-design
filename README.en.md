@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg">
-  <img src="assets/cover-light.svg" alt="MU Poise · UI DESIGN — Considered details. Responsive by design." width="100%">
+  <img src="assets/cover-light.svg" alt="MU LABS Poise · UI DESIGN — Considered details. Responsive by design." width="100%">
 </picture>
 
-<img src="assets/icon.png" alt="MU Poise" width="112" height="112">
+<img src="assets/icon.png" alt="MU LABS Poise" width="112" height="112">
 
-# MU Poise · UI Design
+# MU LABS Poise · UI Design
 
 **Considered interfaces. Responsive interactions.**
 
