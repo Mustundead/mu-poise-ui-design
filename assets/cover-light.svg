@@ -8,7 +8,7 @@
 <text x="70" y="280" font-size="21" font-weight="500" letter-spacing="4" fill="#626268">UI DESIGN</text>
 <text x="70" y="335" font-size="21" fill="#626268">Considered details. Responsive by design.</text>
 <text x="70" y="463" font-size="13" fill="#626268">By Mustundead</text>
-<text x="1212" y="463" text-anchor="end" font-size="13" fill="#626268">v1.0.0 · MIT</text>
+<text x="1212" y="463" text-anchor="end" font-size="13" fill="#626268">v1.0.1 · MIT</text>
 <line x1="744" y1="267" x2="1144" y2="267" stroke="#d9d9df" stroke-width="2"/>
 <rect x="748" y="203" width="86" height="128" rx="19" fill="none" stroke="#76767d" stroke-dasharray="5 7"/>
 <rect x="994" y="148" width="146" height="236" rx="26" fill="none" stroke="#d9d9df"/>

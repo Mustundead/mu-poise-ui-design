@@ -1,6 +1,6 @@
 interface:
   display_name: "MU Poise · UI 设计"
-  icon_small: "./assets/icon.svg"
-  icon_large: "./assets/icon.svg"
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon.png"
   short_description: "Build considered layouts and responsive, accessible interactions"
   default_prompt: "请使用 $mu-poise-ui-design，调整这个弹层的拖动交互，让它能在回弹途中被重新抓取；保留列表滚动和键盘关闭，验证减少动态效果。"
