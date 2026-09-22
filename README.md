@@ -3,6 +3,8 @@
   <img src="assets/cover-light.svg" alt="MU Poise · UI DESIGN — Considered details. Responsive by design." width="100%">
 </picture>
 
+<img src="assets/icon.png" alt="MU Poise" width="112" height="112">
+
 # MU Poise · UI 设计
 
 **界面设计与交互 · 细节有分寸，操作有回应。**
@@ -48,6 +50,22 @@ Poise 是平衡与从容。它代表布局的分寸、操作的可控，以及�
 ```text
 使用 $mu-poise-ui-design。调整这个弹层的拖动交互，让它能在回弹途中被重新抓取；保留列表滚动和键盘关闭，验证减少动态效果。
 ```
+
+## 从一个具体任务开始
+
+**先看哪里需要改。**
+
+```text
+使用 $mu-poise-ui-design。检查当前页面的层级、间距、对齐和控件状态，结合现有设计说明问题与建议。先评审，不改代码。
+```
+
+**直接完成修改。**
+
+```text
+使用 $mu-poise-ui-design。修正当前页面的间距与对齐，保留点击范围和交互行为，在实际运行页面中验证。
+```
+
+评审交付问题与建议；实现交付修改和验证结果。附上页面、截图或项目位置，就能让任务更具体。
 
 ## 内容结构
 

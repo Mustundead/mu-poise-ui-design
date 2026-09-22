@@ -3,6 +3,8 @@
   <img src="assets/cover-light.svg" alt="MU Poise · UI DESIGN — Considered details. Responsive by design." width="100%">
 </picture>
 
+<img src="assets/icon.png" alt="MU Poise" width="112" height="112">
+
 # MU Poise · UI Design
 
 **Considered interfaces. Responsive interactions.**
@@ -18,6 +20,22 @@ Use it to design, review, or implement hierarchy, typography, controls, gestures
 Download the [v1.0.2 release](https://github.com/Mustundead/mu-poise-ui-design/releases/tag/v1.0.2) or clone this repository. Place its complete folder in the skill directory configured for your assistant. The MU LABS local Codex workflow uses `~/.codex/skills/mu-poise-ui-design`; use your host’s documented discovery path elsewhere. Do not overwrite an existing installation without comparing or backing it up.
 
 Invoke `$mu-poise-ui-design` in a new session with the target, available evidence, and requested scope. Read [usage](docs/usage.md) for review versus implementation, updates, and limitations. No account, API key, runtime dependency, or background service is included in this package.
+
+## Start with one task
+
+**Review a page.**
+
+```text
+Use $mu-poise-ui-design. Review hierarchy, spacing, alignment, and control states on this page against its existing design. Explain issues and recommendations without editing code.
+```
+
+**Make the change.**
+
+```text
+Use $mu-poise-ui-design. Fix spacing and alignment on this page. Preserve hit areas and interaction behavior, then verify the running page.
+```
+
+Include the page, screenshot, or project location. A review delivers findings and recommendations; implementation delivers changes and verification results.
 
 ## License and sources
 
