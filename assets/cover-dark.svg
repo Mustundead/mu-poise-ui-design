@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+<title id="title">MU Poise · UI DESIGN</title><desc id="desc">Considered details. Responsive by design. An open-source MU LABS agent skill by Mustundead. The interface illustration is a teaching example.</desc>
+<rect width="1280" height="520" rx="28" fill="#111214"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+<text x="68" y="66" font-size="17" font-weight="600" letter-spacing="4" fill="#f5f5f7">MU LABS</text>
+<text x="1212" y="64" text-anchor="end" font-size="12" letter-spacing="2" fill="#a7a7ae">OPEN SOURCE / AGENT SKILL</text>
+<text x="66" y="230" font-size="92" letter-spacing="-5" font-weight="600" fill="#f5f5f7">MU Poise</text>
+<text x="70" y="280" font-size="21" font-weight="500" letter-spacing="4" fill="#a7a7ae">UI DESIGN</text>
+<text x="70" y="335" font-size="21" fill="#a7a7ae">Considered details. Responsive by design.</text>
+<text x="70" y="463" font-size="13" fill="#a7a7ae">By Mustundead</text>
+<text x="1212" y="463" text-anchor="end" font-size="13" fill="#a7a7ae">v1.0.0 · MIT</text>
+<line x1="744" y1="267" x2="1144" y2="267" stroke="#343438" stroke-width="2"/>
+<rect x="748" y="203" width="86" height="128" rx="19" fill="none" stroke="#76767d" stroke-dasharray="5 7"/>
+<rect x="994" y="148" width="146" height="236" rx="26" fill="none" stroke="#343438"/>
+<g transform="rotate(-6 942 265)"><rect x="846" y="174" width="178" height="198" rx="25" fill="#202124" stroke="#343438"/><rect x="910" y="191" width="48" height="5" rx="2.5" fill="#76767d"/><rect x="871" y="226" width="63" height="15" rx="7.5" fill="#f5f5f7"/><rect x="871" y="260" width="128" height="7" rx="3.5" fill="#343438"/><rect x="871" y="278" width="96" height="7" rx="3.5" fill="#343438"/><rect x="871" y="310" width="128" height="37" rx="10" fill="#f5f5f7"/></g>
+<circle cx="1144" cy="267" r="6" fill="#111214" stroke="#a7a7ae"/>
+<text x="945" y="432" text-anchor="middle" font-size="13" fill="#a7a7ae">Continuous feedback. Control at every moment.</text>
+</g></svg>
