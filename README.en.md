@@ -15,6 +15,8 @@ A personal agent skill by [Mustundead](https://github.com/Mustundead), built aro
 
 Use it to design, review, or implement hierarchy, typography, controls, gestures, interruptible motion, materials, and accessibility. It preserves the existing native or web stack and verifies the actual requested surface.
 
+**Unreleased source update:** This repository adds whole-page hierarchy and measurement guidance, plus a [renderable teaching comparison](assets/calibration.html) for a dense tool and a reading list. The examples do not verify a product. The v1.0.2 link below still points to the published release.
+
 ## Install and invoke
 
 Download the [v1.0.2 release](https://github.com/Mustundead/mu-poise-ui-design/releases/tag/v1.0.2) or clone this repository. Place its complete folder in the skill directory configured for your assistant. The MU LABS local Codex workflow uses `~/.codex/skills/mu-poise-ui-design`; use your host’s documented discovery path elsewhere. Do not overwrite an existing installation without comparing or backing it up.

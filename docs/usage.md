@@ -57,4 +57,6 @@ Git 安装先运行 `git status --short` 检查本地修改，保留自己的定
 
 检查 frontmatter 和链接只能证明包结构。真实行为评估见 [evaluation.md](evaluation.md)。一次情境通过不代表所有项目都通过；运行截图不能替代读屏交互，构建不能替代已登录的目标页面，也不表示 App Store 或生产发布。
 
+尚未打包发行的源码更新增加 [视觉校准](../references/calibration.md)；它是可渲染教学图，不能替代目标产品截图。维护者按 [evaluation.md](evaluation.md) 冻结输入并保存原始输出；此处不是新的发行版本。
+
 v1.0.0 的具体发布检查记在发行说明中；后续变更必须重跑受影响部分，不能继承旧的通过结论。
